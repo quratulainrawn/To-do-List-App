@@ -1,6 +1,6 @@
 # To-do-List-App
 Tools Used:  Android Studio: IDE for app development and testing. SQLite Database: Local data storage solution. Languages Used:  Java: For app logic and functionality. XML: For designing the user interface.
-To-Do List app internship task at KaiRiz Cyber Technologies.
+To-Do List app internship task at KaiRiz Cyber Technologies and encryptix.
 # To-Do List Application Report
 
 ## Overview
